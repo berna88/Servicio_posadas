@@ -39,7 +39,6 @@ public class Servicio_posadasPortletViewController {
 			count++;
 			if(count==3)
 				break;
-			
 		}
 	}
 	public Long getSiteId(RenderRequest resourceRequest){
